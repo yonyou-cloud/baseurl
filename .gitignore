@@ -1,0 +1,14 @@
+/node_modules
+test.js
+coverage/
+build/
+npm-debug.log
+.DS_Store
+tmp/
+debug/
+.idea
+jsdoc/
+*.iml
+.cache
+/.vscode
+.sublimelinterrc
