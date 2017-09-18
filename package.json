@@ -5,9 +5,16 @@
     "private": true,
     "description": "用友各种类型域名应用",
     "main": "./index.js",
-    "files": ["index.js"],
+    "files": [
+        "index.js"
+    ],
     "dependencies": {},
-    "devDependencies": {},
-    "keywords": ["baseurl"],
+    "devDependencies": {
+        "@yonyou-cloud/eslint-config": "0.0.1",
+        "eslint": "^4.7.0"
+    },
+    "keywords": [
+        "baseurl"
+    ],
     "license": "MIT"
 }

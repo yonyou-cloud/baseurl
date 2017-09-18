@@ -25,6 +25,6 @@ var urls = {
     }
   }
 }
-module.exports = function getBaseurl(projType, lang, env) {
-  return urls[projType][lang][env];
+module.exports = function getBaseurl (projType, lang, env) {
+  return urls[projType][lang][env]
 }
