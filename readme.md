@@ -1,9 +1,9 @@
-# @yonyou/baseurl
+# @yonyou-cloud/baseurl
 
 ## Install
 
 ```bash
-npm i yonyou-cloud/baseurl
+npm i @yonyou-cloud/baseurl
 ```
 
 ## Usage
