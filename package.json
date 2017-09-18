@@ -2,7 +2,6 @@
     "name": "@yonyou-cloud/baseurl",
     "version": "0.0.1",
     "author": "薛定谔的猫 <hh_2013@foxmail.com>",
-    "private": true,
     "description": "用友各种类型域名应用",
     "main": "./index.js",
     "files": [
